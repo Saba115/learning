@@ -1,0 +1,195 @@
+
+    *{
+        margin: 0px;
+        padding: 0px;
+    }
+    ul li{
+        list-style: none;
+    }
+    a{
+     color: white;
+     font-size: 14px;
+    }
+   
+    
+.topbar{
+   
+color: white;
+   padding-left: 0%;    
+    
+}
+
+
+.second{
+    font-size: 15px;
+    color: white;
+    
+}
+.button a{
+  padding: 3px;
+    
+}
+
+
+
+   
+    .logo{
+        max-width: 200px;
+        
+    }
+    .home{
+        color: white;
+        border-radius: 15px;
+        background-color:  #007bff;
+        padding: 5px 10px 5px 10px;
+        cursor: pointer;
+        font-weight: bold;
+        
+        
+    }
+    .home:focus{
+
+    
+        background-color:  #007bff;
+    }
+    .both{
+        color: black;
+        border-style: none;
+
+        
+      cursor: pointer;
+        font-weight: bold;
+
+    }
+    .both:focus{
+        background-color:  #007bff;
+    }
+    .dropbtn {
+        background-color: white;
+        color: black;
+        padding: 16px;
+        font-size: 16px;
+        border: none;
+        font-weight: bolder;
+      }
+      
+      .dropdown {
+        position: relative;
+        display: inline-block;
+      }
+      
+      .dropdown-content {
+        display: none;
+        position: absolute;
+        background-color: white;
+        min-width: 200px;
+        box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+        z-index: 1;
+        font-weight: bolder;
+      }
+      
+      .dropdown-content a {
+        color: black;
+        padding: 12px 16px;
+        text-decoration: none;
+        display: block;
+      }
+      
+      .dropdown-content a:hover {background-color: lightblue;}
+      
+      .dropdown:hover .dropdown-content {display: block;}
+      
+      .dropdown:hover .dropbtn {background-color:  #007bff;}
+
+.rotate{
+    padding-top: 2px;
+    margin: 12px;
+    background-color: blue ;
+    color: white;
+    
+}
+
+.images{
+
+        max-width: 100%;
+        max-height: 100%;
+}
+.introduction{
+    display: scroll;
+    margin: 8px;
+}
+.introduction img{
+    display: block;
+    
+}
+h1{
+    display: inline;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+    
+}
+.blue{
+    color:blue;
+}
+.green{
+ color:green;
+}
+.introductiontext p{
+    text-align: justify;
+}
+.counter{
+    margin: 50px;
+    color: white;
+    
+    
+}
+.counter h2{
+    font-size: 50px;
+    
+}
+.counter p{
+    display: inline;
+    font-weight: bold;
+    
+}
+.greencolor{
+    color: green;
+    font-weight: bolder;
+}
+.counter i{
+    color: black;
+}
+.doing{
+
+    box-shadow: rgba(0,0,0,0.2);
+    text-align: center;
+    box-sizing: border-box;
+    border-bottom-color: 2px white;
+    margin: 35px;
+    
+}
+.doing p{
+    font-size: large;
+    color: blue;
+    font-weight: bold;
+}
+.mission h2{
+    color: blue;
+    font-weight: bold;
+    text-decoration: darkgray;
+    text-underline-position: below;
+}
+.blocksevent{
+    text-align: justify;
+    padding: 20px;
+    color: black;
+    
+   
+    
+}
+.list-unstyled i{
+    color: black;
+}
+
+
+
